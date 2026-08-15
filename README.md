@@ -6,10 +6,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-Engineering-7C3AED?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-JS-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Tool Calling](https://img.shields.io/badge/Tool%20Calling-Governance-2563EB?style=flat-square)
 ![Streaming](https://img.shields.io/badge/Streaming-SSE-0284C7?style=flat-square)
-![Context Engineering](https://img.shields.io/badge/Context-Engineering-9333EA?style=flat-square)
-![Agent Evaluation](https://img.shields.io/badge/Agent-Evaluation-16A34A?style=flat-square)
 ![Runtime Reliability](https://img.shields.io/badge/Runtime-Reliability-DC2626?style=flat-square)
 
 ## 🙋 Get to Know Me
