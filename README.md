@@ -16,7 +16,7 @@ cross-platform IM systems, and full-stack Agent Runtime engineering.
 multimodal interaction, tool governance, HITL, context engineering,
 evaluation, and runtime reliability.
 
-## ✍️ Featured Articles on Medium
+## ✍️ Featured Articles
 [![Medium](https://img.shields.io/badge/Read%20more%20on-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://hsien-w-wei.medium.com/)
 
 - [Development：從 OpenSpec 開始 SDD 的路](https://medium.com/@hsien-w-wei/development-%E5%BE%9E-openspec-%E9%96%8B%E5%A7%8B-sdd-%E7%9A%84%E8%B7%AF-df287dad6b40)
