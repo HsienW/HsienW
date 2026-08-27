@@ -21,3 +21,6 @@ evaluation, and runtime reliability.
 
 - [Development：從 OpenSpec 開始 SDD 的路](https://medium.com/@hsien-w-wei/development-%E5%BE%9E-openspec-%E9%96%8B%E5%A7%8B-sdd-%E7%9A%84%E8%B7%AF-df287dad6b40)
 - [AI Agent：Multi-Agent 是要怎麼開始？](https://medium.com/@hsien-w-wei/ai-agent-multi-agent-%E6%98%AF%E8%A6%81%E6%80%8E%E9%BA%BC%E9%96%8B%E5%A7%8B-ed802acb5623)
+- [AI Agent：Prompt 怎麼管理？Prompt Engineering 怎麼做](https://medium.com/@hsien-w-wei/ai-agent-prompt-%E6%80%8E%E9%BA%BC%E7%AE%A1%E7%90%86-prompt-engineering-%E6%98%AF%E4%BB%80%E9%BA%BC-74883b876382)
+- [AI Agent：Vibe Conding 使用 Prompt 四象限的感想](https://medium.com/@hsien-w-wei/ai-agent-vibe-conding-%E4%BD%BF%E7%94%A8-prompt-%E5%9B%9B%E8%B1%A1%E9%99%90%E7%9A%84%E6%84%9F%E6%83%B3-5ce21d4405a7)
+- [Front-end：Browser Cache](https://medium.com/@hsien-w-wei/front-end-browser-cache-%E7%86%9F%E6%82%89%E7%9A%84%E9%99%8C%E7%94%9F%E4%BA%BA-i-i-7df2d8f2ae04)
