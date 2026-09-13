@@ -28,5 +28,5 @@ evaluation, and runtime reliability.
 
 ## 🤝 Contributing to
 
-- [![GitHub stars](https://img.shields.io/github/stars/chaitanyagiri/munder-difflin?style=flat-square&label=%E2%AD%90&color=facc15)](https://github.com/chaitanyagiri/munder-difflin/stargazers) [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) — Worked on Multi-Agent Runtime and Hive stability, including cross-process Hook Event handling, runtime validation, and malformed outbox data that could cause task state to be lost.
-- [![GitHub stars](https://img.shields.io/github/stars/rajudandigam/agent-inspect?style=flat-square&label=%E2%AD%90&color=facc15)](https://github.com/rajudandigam/agent-inspect/stargazers) [rajudandigam/agent-inspect](https://github.com/rajudandigam/agent-inspect) — Added checks and tests for AI agent traces and evidence, including provenance checks, AI SDK packed E2E coverage, and causal ordering in TraceContract.
+- [chaitanyagiri/munder-difflin (⭐7K+)](https://github.com/chaitanyagiri/munder-difflin) — Worked on Multi-Agent Runtime and Hive stability, including cross-process Hook Event handling, runtime validation, and malformed outbox data that could cause task state to be lost.
+- [rajudandigam/agent-inspect(⭐500+)](https://github.com/rajudandigam/agent-inspect) — Added checks and tests for AI agent traces and evidence, including provenance checks, AI SDK packed E2E coverage, and causal ordering in TraceContract.
