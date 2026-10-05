@@ -17,8 +17,7 @@ multimodal interaction, tool governance, HITL, context engineering,
 evaluation, and runtime reliability.
 
 ## ✍️ Featured Articles
-[![Medium](https://img.shields.io/badge/Read%20more%20on-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://hsien-w-wei.medium.com/)
-
+[![Medium](https://img.shields.io/badge/Mandarin%20-Medium-000000?style=flat-square&logoColor=white)](https://hsien-w-wei.medium.com/)
 - [Development：從 OpenSpec 開始 SDD 的路](https://medium.com/@hsien-w-wei/development-%E5%BE%9E-openspec-%E9%96%8B%E5%A7%8B-sdd-%E7%9A%84%E8%B7%AF-df287dad6b40)
 - [AI Agent：Multi-Agent 是要怎麼開始？](https://medium.com/@hsien-w-wei/ai-agent-multi-agent-%E6%98%AF%E8%A6%81%E6%80%8E%E9%BA%BC%E9%96%8B%E5%A7%8B-ed802acb5623)
 - [AI Agent：不用技術名詞，你能說清楚 Harness 跟 Runtime 是什麼嗎？](https://hsien-w-wei.medium.com/ai-agent-%E4%B8%8D%E7%94%A8%E6%8A%80%E8%A1%93%E5%90%8D%E8%A9%9E-%E4%BD%A0%E8%83%BD%E8%AA%AA%E6%B8%85%E6%A5%9A-harness-%E8%B7%9F-runtime-%E6%98%AF%E4%BB%80%E9%BA%BC%E5%97%8E-50be2cd905bb)
@@ -26,6 +25,9 @@ evaluation, and runtime reliability.
 - [AI Agent：Vibe Coding 使用 Prompt 四象限](https://medium.com/@hsien-w-wei/ai-agent-vibe-conding-%E4%BD%BF%E7%94%A8-prompt-%E5%9B%9B%E8%B1%A1%E9%99%90%E7%9A%84%E6%84%9F%E6%83%B3-5ce21d4405a7)
 - [AI Agent：飄移 VS 越權: 工具能用，不代表 Agent 有權用](https://hsien-w-wei.medium.com/ai-agent-%E9%A3%84%E7%A7%BB%E8%B7%9F%E8%B6%8A%E6%AC%8A-%E5%B7%A5%E5%85%B7%E8%83%BD%E7%94%A8-%E4%B8%8D%E4%BB%A3%E8%A1%A8-agent-%E6%9C%89%E6%AC%8A%E7%94%A8-aa6d4b200576)
 - [Front-end：Browser Cache](https://medium.com/@hsien-w-wei/front-end-browser-cache-%E7%86%9F%E6%82%89%E7%9A%84%E9%99%8C%E7%94%9F%E4%BA%BA-i-i-7df2d8f2ae04)
+
+[![Medium](https://img.shields.io/badge/English%20-Medium-000000?style=flat-square&logoColor=white)](https://hsien-w-wei.medium.com/)
+- [AI Agent：Without Technical Jargon Can You Clearly Explain Harness and Runtime？](https://hsien-w-wei.medium.com/ai-agent-without-technical-jargon-can-you-clearly-explain-harness-and-runtime-baabd3cb6d03)
 
 ## 🤝 Contributing to
 
