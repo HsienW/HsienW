@@ -28,6 +28,7 @@ evaluation, and runtime reliability.
 - [Front-end：Browser Cache](https://medium.com/@hsien-w-wei/front-end-browser-cache-%E7%86%9F%E6%82%89%E7%9A%84%E9%99%8C%E7%94%9F%E4%BA%BA-i-i-7df2d8f2ae04)
 
 [![Medium](https://img.shields.io/badge/English%20-Medium-000000?style=flat-square&logoColor=white)](https://hsien-w-wei.medium.com/)
+- [Development：Expert Intuition Is the Ability We Need Most in the AI Era](https://medium.com/@hsien-w-wei/development-expert-intuition-is-the-ability-we-need-most-in-the-ai-era-8ce6dabd13f0)
 - [AI Agent：Without Technical Jargon Can You Clearly Explain Harness and Runtime？](https://hsien-w-wei.medium.com/ai-agent-without-technical-jargon-can-you-clearly-explain-harness-and-runtime-baabd3cb6d03)
 
 ## 🤝 Contributing to
