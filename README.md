@@ -18,8 +18,8 @@ evaluation, and runtime reliability.
 
 ## ✍️ Featured Articles
 [![Medium](https://img.shields.io/badge/Mandarin%20-Medium-000000?style=flat-square&logoColor=white)](https://hsien-w-wei.medium.com/)
+- [Development：AI 時代最需要的能力是專家直覺 (Expert Intuition)](https://hsien-w-wei.medium.com/ai-agent-ai-%E6%99%82%E4%BB%A3%E6%9C%80%E9%9C%80%E8%A6%81%E7%9A%84%E8%83%BD%E5%8A%9B%E6%98%AF%E5%B0%88%E5%AE%B6%E7%9B%B4%E8%A6%BA-expert-intuition-83e30324547d)  [![简中阅读 ↗](https://img.shields.io/badge/%E7%AE%80%E4%B8%AD%E9%98%85%E8%AF%BB%20%E2%86%97-555555?style=flat-square)](https://github.com/HsienW/ai-agent-coding-solution-kit/blob/master/agent-thoughts/ai-software-development/01-Development-AI-%E6%97%B6%E4%BB%A3%E6%9C%80%E9%9C%80%E8%A6%81%E7%9A%84%E8%83%BD%E5%8A%9B%E6%98%AF%E4%B8%93%E5%AE%B6%E7%9B%B4%E8%A7%89.md)
 - [Development：從 OpenSpec 開始 SDD 的路](https://medium.com/@hsien-w-wei/development-%E5%BE%9E-openspec-%E9%96%8B%E5%A7%8B-sdd-%E7%9A%84%E8%B7%AF-df287dad6b40)
-- [Development：AI 時代最需要的能力是專家直覺 (Expert Intuition)](https://hsien-w-wei.medium.com/ai-agent-ai-%E6%99%82%E4%BB%A3%E6%9C%80%E9%9C%80%E8%A6%81%E7%9A%84%E8%83%BD%E5%8A%9B%E6%98%AF%E5%B0%88%E5%AE%B6%E7%9B%B4%E8%A6%BA-expert-intuition-83e30324547d)
 - [AI Agent：Multi-Agent 是要怎麼開始？](https://medium.com/@hsien-w-wei/ai-agent-multi-agent-%E6%98%AF%E8%A6%81%E6%80%8E%E9%BA%BC%E9%96%8B%E5%A7%8B-ed802acb5623)
 - [AI Agent：不用技術名詞，你能說清楚 Harness 跟 Runtime 是什麼嗎？](https://hsien-w-wei.medium.com/ai-agent-%E4%B8%8D%E7%94%A8%E6%8A%80%E8%A1%93%E5%90%8D%E8%A9%9E-%E4%BD%A0%E8%83%BD%E8%AA%AA%E6%B8%85%E6%A5%9A-harness-%E8%B7%9F-runtime-%E6%98%AF%E4%BB%80%E9%BA%BC%E5%97%8E-50be2cd905bb)
 - [AI Agent：Prompt Engineering 怎麼做？](https://medium.com/@hsien-w-wei/ai-agent-prompt-%E6%80%8E%E9%BA%BC%E7%AE%A1%E7%90%86-prompt-engineering-%E6%98%AF%E4%BB%80%E9%BA%BC-74883b876382)
